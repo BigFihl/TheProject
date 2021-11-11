@@ -38,6 +38,13 @@ var monthsParse = [
     /^dez/i,
 ];
 
+function max(){
+    setInterval(() => {
+        var oi = "chapuletei"
+        console.log("salve")
+    }, 30);
+}
+
 var mount = 3
 var witht = mount * mount
 
